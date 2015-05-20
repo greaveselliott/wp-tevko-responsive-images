@@ -21,6 +21,11 @@ No configuration is needed! Just install the plugin and enjoy automatic responsi
 
 This plugin includes several functions that can be used by theme and plugin developers in templates.
 
+#Before you get started
+If you don't have a complete understanding of the [srcset] and [sizes] [<img>] attributes - read this well written article explaining the why's behind these new mark-up attributes and demonstrating how to start using them now.
+(https://ericportis.com/posts/2014/srcset-sizes/)
+
+
 ###Advanced Image Compression
 
 **This is an experimental feature, if used, please provide us with feedback!**
